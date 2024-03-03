@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/silver-rotary-phone-sample/static/css/main.1319e149.css",
+    "main.js": "/silver-rotary-phone-sample/static/js/main.3381d78d.js",
+    "static/css/8.067c9904.chunk.css": "/silver-rotary-phone-sample/static/css/8.067c9904.chunk.css",
+    "static/js/8.cdcc055c.chunk.js": "/silver-rotary-phone-sample/static/js/8.cdcc055c.chunk.js",
+    "static/js/453.896ca0c2.chunk.js": "/silver-rotary-phone-sample/static/js/453.896ca0c2.chunk.js",
+    "static/js/876.e43ef53a.chunk.js": "/silver-rotary-phone-sample/static/js/876.e43ef53a.chunk.js",
+    "index.html": "/silver-rotary-phone-sample/index.html",
+    "main.1319e149.css.map": "/silver-rotary-phone-sample/static/css/main.1319e149.css.map",
+    "main.3381d78d.js.map": "/silver-rotary-phone-sample/static/js/main.3381d78d.js.map",
+    "8.067c9904.chunk.css.map": "/silver-rotary-phone-sample/static/css/8.067c9904.chunk.css.map",
+    "8.cdcc055c.chunk.js.map": "/silver-rotary-phone-sample/static/js/8.cdcc055c.chunk.js.map",
+    "453.896ca0c2.chunk.js.map": "/silver-rotary-phone-sample/static/js/453.896ca0c2.chunk.js.map",
+    "876.e43ef53a.chunk.js.map": "/silver-rotary-phone-sample/static/js/876.e43ef53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.3381d78d.js"
+  ]
+}
